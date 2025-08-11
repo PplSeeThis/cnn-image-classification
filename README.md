@@ -40,7 +40,7 @@ Below are the graphs showing the training loss and validation accuracy per epoch
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/cnn-image-classification.git](https://github.com/your-username/cnn-image-classification.git)
+    git clone [https://github.com/PplSeeThis/cnn-image-classification.git](https://github.com/PplSeeThis/cnn-image-classification.git)
     cd cnn-image-classification
     ```
 2.  **Create and activate a virtual environment:**
