@@ -34,7 +34,7 @@ Below are the graphs showing the training loss and validation accuracy per epoch
 
 | Training Loss | Validation Accuracy |
 | :-----------: | :-----------------: |
-| ![Training Loss](https://storage.googleapis.com/agent-tools-public-bucket/hosted_tools_images/c234a413-a442-4917-a006-2187f4c5e571.png) | ![Validation Accuracy](https://storage.googleapis.com/agent-tools-public-bucket/hosted_tools_images/e8c85777-6f0e-473d-82d2-8b010c7bd32a.png) |
+| ![Training Loss](img/training.png) | ![Validation Accuracy](img/validation.png) |
 
 ## 🚀 How to Run
 
