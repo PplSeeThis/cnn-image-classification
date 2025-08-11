@@ -6,29 +6,29 @@ A convolutional neural network (CNN) built with PyTorch to classify images from 
 
 ## 📜 Project Overview
 
-[cite_start]The main goal of this project is to develop a CNN capable of classifying landscape images into one of several categories (e.g., buildings, forest, sea)[cite: 13]. The model is trained on the [Kaggle Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) dataset.
+The main goal of this project is to develop a CNN capable of classifying landscape images into one of several categories (e.g., buildings, forest, sea). The model is trained on the [Kaggle Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) dataset.
 
 Key steps included:
 * **Data Preprocessing:** Images were resized to 128x128 pixels and normalized.
-* [cite_start]**Data Augmentation:** Techniques like random horizontal flips and rotations were applied to the training set to improve model generalization[cite: 29, 55, 57].
-* [cite_start]**Model Architecture:** A custom CNN was built with three convolutional layers, each followed by a ReLU activation and a MaxPooling layer[cite: 30].
-* [cite_start]**Training & Evaluation:** The model was trained for 10 epochs, achieving a final validation accuracy of over 85%[cite: 31, 215].
+* **Data Augmentation:** Techniques like random horizontal flips and rotations were applied to the training set to improve model generalization.
+* **Model Architecture:** A custom CNN was built with three convolutional layers, each followed by a ReLU activation and a MaxPooling layer.
+* **Training & Evaluation:** The model was trained for 10 epochs, achieving a final validation accuracy of over 85%.
 
 ## 🛠️ Technologies & Libraries
 
-* [cite_start]**Language:** Python 3.10 [cite: 23]
+* **Language:** Python 3.10 
 * **Core Libraries:**
-    * [cite_start]PyTorch [cite: 24]
-    * [cite_start]Torchvision [cite: 24]
-    * [cite_start]Matplotlib [cite: 24]
+    * PyTorch 
+    * Torchvision 
+    * Matplotlib 
     * NumPy
-* [cite_start]**Environment:** Kaggle Notebooks [cite: 25]
+* **Environment:** Kaggle Notebooks 
 
 ## 📈 Results
 
 The model demonstrated strong performance in classifying the images.
-* [cite_start]**Peak Validation Accuracy:** **86.93%** (achieved at epoch 9) [cite: 261]
-* [cite_start]**Final Test Accuracy:** **85.07%** [cite: 257]
+* **Peak Validation Accuracy:** **86.93%** (achieved at epoch 9) 
+* **Final Test Accuracy:** **85.07%** 
 
 Below are the graphs showing the training loss and validation accuracy per epoch.
 
